@@ -16,7 +16,13 @@ If you use these resources for scientific research please give appropriate credi
 
 ## Contributors
 
-Dr Tim Dawes, Dr Antonio de Marvao, Dr Wenzhe Shi, Dr Mark Attard
+Dr Tim Dawes  
+Dr Antonio de Marvao  
+Dr Wenzhe Shi  
+Dr Mark Attard  
+Prof Daniel Rueckert  
+Dr Wenjia Bai  
+
 
 ## License
 
