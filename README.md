@@ -14,6 +14,9 @@ Analytic tools will be added in future. All data and software is for scientific 
 
 If you use these resources for scientific research please give appropriate credit in any resulting publications - <http://www.ncbi.nlm.nih.gov/pubmed/24490638> 
 
+## Contributors
+
+Dr Tim Dawes, Dr Antonio de Marvao, Dr Wenzhe Shi, Dr Mark Attard
 
 ## License
 
