@@ -1,6 +1,6 @@
 # Mean Shapes in Pulmonary Hypertension
 
-This repository contains Visualization Toolkit (VTK) files to image process and visualuze the 3D structure of a heart model derived from over 1500 healthy subjects and 250 patients with pulmonary hypertension.
+This repository contains Visualization Toolkit (VTK) files to image process and visualize the 3D structure of a heart model derived from over 1500 healthy subjects and 250 patients with pulmonary hypertension.
 
 ## LVmyoPH.vtk
 
