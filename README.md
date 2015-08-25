@@ -1,28 +1,18 @@
-# UK Digital Heart Project
+# Mean Shapes in Pulmonary Hypertension
 
-This study is based at the **MRC Clinical Sciences Centre, UK**. The principal investigators are **Prof Stuart Cook** and **Dr Declan O’Regan**. 
+This repository contains Visualization Toolkit (VTK) files to image process and visualuze the 3D structure of a heart model derived from over 1500 healthy subjects and 250 patients with pulmonary hypertension.
+
+## LVmyoPH.vtk
+
+The mean 3D shape of the end diastolic left ventricular myocardium in pulmonary hypertension.
+
+## RVmyoPH.vtk
+
+The mean 3D shape of the end diastolic right ventricular myocardium in pulmonary hypertension.
+
+
 
 Copyright 2015 Imperial College London
-
-## Features
-
-The models are VTK files of cardiac geometry created from the mean shape of over 1500 healthy subjects and 250 patients with pulmonary hypertension.
-
-Analytic tools will be added in future. All data and software is for scientific use only.
-
-## Citation
-
-If you use these resources for scientific research please give appropriate credit in any resulting publications - <http://www.ncbi.nlm.nih.gov/pubmed/24490638> 
-
-## Contributors
-
-Dr Tim Dawes  
-Dr Antonio de Marvao  
-Dr Wenzhe Shi  
-Dr Mark Attard  
-Prof Daniel Rueckert  
-Dr Wenjia Bai  
-
 
 ## License
 
