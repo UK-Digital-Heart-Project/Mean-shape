@@ -12,7 +12,7 @@ The mean 3D shape of the end diastolic right ventricular myocardium in pulmonary
 
 ## How to cite
 
-The UK Digital Heart Project was set up by Prof Stuart Cook and Dr Declan O'Regan at the MRC Clincal Sciences Centre, Imperial College London, UK. It is co-funded by the BHF, MRC and NIHR. Please acknowledge the project in any publicatons and cite either:
+The UK Digital Heart Project was set up by Prof Stuart Cook and Dr Declan O'Regan at the MRC Clinical Sciences Centre, Imperial College London, UK. It is co-funded by the BHF, MRC and NIHR. Please acknowledge the project in any publications and cite either:
 
 Bai W, Shi W, de Marvao A, Dawes TJ, O'Regan DP, Cook SA, Rueckert D. A bi-ventricular cardiac atlas built from 1000+ high resolution MR images of healthy subjects and an analysis of shape and motion. Med Image Anal. 2015;26:133-145. [doi:10.1016/j.media.2015.08.009](http://dx.doi.org/10.1016/j.media.2015.08.009)
 
